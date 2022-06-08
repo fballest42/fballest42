@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-
+### Hi there 👋 Wellcome to my Github Profile, here you can find more information about my works an projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fballest42&layout=compact&theme=nord&langs_count=10&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -9,12 +6,12 @@
 
 [![fballest's 42 stats](https://badge42.vercel.app/api/v2/cl45d74de005409l9l5r3ozl6/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
 
-MORE ABOUT ME:
+## MORE ABOUT ME:
 <a href="https://www.linkedin.com/in/fballesteros/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-## Languages & Tools
+## LANGUAJES & TOOLS
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/CPP?style=for-the-badge&logo=c&logoColor=white"/> <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <!--
 **fballest42/fballest42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -17,7 +17,7 @@
   
 ## CONTACT:
   
-<a href="mailto:ballesteros.fdo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <a href="https://slack.com/app_redirect?<@UQ666BP9D>"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+<a href="mailto:ballesteros.fdo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <a href="https://slack.com/app_redirect?@UQ666BP9D"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 
 <!--
 **fballest42/fballest42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

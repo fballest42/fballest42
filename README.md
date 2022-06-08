@@ -1,6 +1,5 @@
-### Hi there 👋 Wellcome to my Github Profile, here you can find more information about my works an projects.
+### Hi there 👋 Wellcome to my Github Profile, here you can find more information about my works, projects and a couple of links to know more about me.
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=fballest42&theme=blue-green
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fballest42&layout=compact&theme=nord&langs_count=10&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 

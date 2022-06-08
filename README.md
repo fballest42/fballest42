@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Endpoint: api/top-langs?username=fballest42
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fballest42)](https://github.com/anuraghazra/github-readme-stats)
 

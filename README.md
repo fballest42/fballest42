@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fballest42&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fballest42&theme=dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fballest42&show_icons=true&theme=dark)
 

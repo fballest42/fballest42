@@ -1,5 +1,5 @@
 # Hi there 👋
-#### Wellcome to my Github Profile, here you can find more information about my works, projects and a few links to know more about me. If you want to contact me you can do it form email and slack user that you can find at the botton line of my bio.
+#### Wellcome to my Github Profile, here you can find more information about my works, projects and a few links to know more about me. If you want to contact me, you can do it by email, slack or linkedin profile, you can find links to do it at the botton line of my bio.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fballest42&show_icons=true&theme=dark)
